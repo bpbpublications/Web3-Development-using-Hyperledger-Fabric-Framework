@@ -1,0 +1,6 @@
+go 1.21.0
+
+use (
+	./samples/asset-transfer-basic/application-gateway-go
+	./samples/asset-transfer-basic/chaincode-go
+)
